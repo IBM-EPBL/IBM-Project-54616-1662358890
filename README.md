@@ -1,2 +1,9 @@
 # IBM-Project-54616-1662358890
 Gas Leakage monitoring &amp; Alerting system for Industries
+TEAM ID : PNT2022TMID17583
+TEAM MEMBERS :
+  DHANYA U
+  RANJITH R
+  GURUTHEEP M
+  DHARANESHWARAN S
+ ASSIGNMENTS 
